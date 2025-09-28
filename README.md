@@ -7,14 +7,23 @@ Password: venomrat
 
 
 Remote access and control over the infected system.
+
 Stealing personal data, including passwords and files.
+
 Taking screenshots and recording the screen.
+
 Eavesdropping on the microphone and using the camera for spying.
+
 Keylogging (recording keystrokes).
+
 Uploading, deleting, and managing files on the infected system.
+
 Executing arbitrary commands on the infected system.
+
 Updating and modifying malicious software.
+
 Bypassing antivirus programs and security systems.
+
 Using the system for further attacks or spreading other malware.
 
 
